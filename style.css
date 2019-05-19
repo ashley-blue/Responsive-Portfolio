@@ -1,0 +1,124 @@
+header {
+    overflow: hidden;
+    background-color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 30px;
+    border-color: #cccccc;
+    border-width: 40px;
+    width: 100%
+    
+}
+.header2 {
+    overflow: hidden;
+    background-color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #777777;
+    padding: 30px;
+}
+.header3 {
+    overflow: hidden;
+    background-color: #ffffff;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #777777;
+    padding: 30px;
+}
+.content {
+    width: 960px;
+    margin-left: 10%;
+    /* margin-right: 50%; */
+ /* display: flex; */
+    margin-top: 30px;
+    background-color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: #dddddd;
+    color: #777777;
+    /* justify-content: center; */
+    /* align-items: center; */
+    padding-bottom: 260px;
+    margin-bottom: 30px;
+}
+.header-right {
+    display: inline;
+    text-align: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #777777;
+    margin-left: 700px;
+    /* margin-bottom: 25px; */
+}
+body {
+    /* margin: 0;  */
+    /* padding: 100px; */
+    background-color: rgb(188, 204, 247);
+}
+/* .name {
+    padding: 10px;
+    background-color: #4aaaa5;
+    width:140px;
+    margin: 0;
+    font-size: 18px;
+    color: #ffffff;
+} */
+h6{
+    display: inline;
+    padding: 10px;
+    background-color: #4aaaa5;
+    width:140px;
+    margin: 0;
+    font-size: 18px;
+    color: #ffffff;
+
+}
+h1 {
+    color: #4aaaa5;
+}
+#hr1 {
+    border: solid;
+    border-width: 2px;
+    margin-bottom: 5px;
+}
+img {
+    width: 250px;
+    height: 300px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+#paragraphabout {
+    color: #777777;
+    margin-bottom: 50px;
+    border-bottom-width: 0px;
+    padding: 0px;
+}
+.lajolla {
+    width: 290px;
+    height: 250px;
+    padding: 10px;
+    float: left;
+}
+.santamonica {
+    height: 250px;
+    width: 290px;
+    padding: 10px;
+}
+.redrock {
+    height: 250px;
+    width: 290px;
+    padding: 10px;
+    float: right;
+}
+#submit {
+    background-color: #4aaaa5;
+    color: #ffffff
+}
+footer {
+    text-align: center;
+    border: solid;
+    border-top-width: 5px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-color: #4aaaa5;
+    background-color: #666666;
+    width: 100%;
+}
